@@ -1,2 +1,1 @@
-# WA1-LAB1
-LAB1
+# Web Applications I - Lab 1
